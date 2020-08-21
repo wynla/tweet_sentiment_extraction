@@ -1,2 +1,0 @@
-# tweet_sentiment_extraction
-kaggle tweet_sentiment_extraction
